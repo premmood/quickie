@@ -1,0 +1,1 @@
+this is a merge3 + reset soft + amend last
